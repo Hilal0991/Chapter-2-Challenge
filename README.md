@@ -9,9 +9,8 @@ downloaded from.
 
 
 2. Modern Replacement
-3. 
 - Modern web technologies that replaced applets:
-- 
+  
 • HTML5
 
 • CSS3
@@ -24,10 +23,9 @@ Using HTML, CSS, and JavaScript, we can animate text easily.
 
 
 3. Legacy Importance
-4. 
+
 - It’s important for developers to understand applets because:
 
-- 
 • They were an early example of web-embedded Java code.
 
 • Understanding them helps us see how web technology evolved.
